@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyParking</string>
+    <string name="title_activity_maps">Easy parking</string>
+    <string name="title_activity_splash_screen">Easy parking</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#ff1c1bff</color>
+    <color name="green">#ff05a309</color>
+    <color name="red">#ffff2213</color>
+    <color name="backGroundSplash">#ff2aacff</color>
+    <color name="slideInfo">#ff2aacff</color>
+    <color name="button">#ff1893ff</color>
+
+
+</resources>
